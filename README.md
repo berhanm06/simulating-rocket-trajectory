@@ -7,4 +7,4 @@ i am mainly uploading this out of nostalgia now, this code is really hard to loo
 
 ![Plot made from CO61_4_1_2.m](https://github.com/berhanm06/simulating-rocket-trajectory/blob/main/CO61_4/CO61_4_1/CO61_4_1_plot2.jpg "CO61_4_1_2")
 
-![Plot made from CO61_4_2.m](https://github.com/berhanm06/simulating-rocket-trajectory/blob/main/CO61_4/CO61_4_2_plot.jpg) "CO61_4_2")
+![Plot made from CO61_4_2.m](https://github.com/berhanm06/simulating-rocket-trajectory/blob/main/CO61_4/CO61_4_2_plot.jpg "CO61_4_2")
